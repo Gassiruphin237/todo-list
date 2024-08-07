@@ -1,0 +1,6 @@
+.label{
+    -webkit-text-fill-color: #0000;
+    background: linear-gradient(45deg,#007bff,#ff0051);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
